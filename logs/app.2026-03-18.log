@@ -1,0 +1,4 @@
+2026-03-18 22:35:11 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-18 22:35:11 INFO  c.e.D.DtoServiceApplicationTests - Starting DtoServiceApplicationTests using Java 21.0.9 with PID 28868 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\DTOService)
+2026-03-18 22:35:11 INFO  c.e.D.DtoServiceApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-18 22:35:13 INFO  c.e.D.DtoServiceApplicationTests - Started DtoServiceApplicationTests in 1.946 seconds (process running for 3.086)

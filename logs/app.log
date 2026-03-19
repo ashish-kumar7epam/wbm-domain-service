@@ -1,0 +1,136 @@
+2026-03-19 11:26:36 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 11:26:36 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 2176 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 11:26:36 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 11:26:38 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 2.789 seconds (process running for 3.888)
+2026-03-19 14:58:31 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 14:58:31 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 24296 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 14:58:31 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 14:58:34 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: a11e8009-20a5-4f62-9183-487e3622f43f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 14:58:34 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 14:58:34 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 4.222 seconds (process running for 5.518)
+2026-03-19 15:01:32 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:01:32 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 11476 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:01:32 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:01:34 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 42e95716-9b07-4eb1-9e5d-4c6a1b61f47d
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:01:34 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:01:35 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 3.056 seconds (process running for 4.812)
+2026-03-19 15:04:17 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:04:17 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 6444 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:04:17 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:04:20 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 02e6b043-aa23-4f7d-bd7c-aad555e470be
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:04:20 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:04:20 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 3.566 seconds (process running for 5.25)
+2026-03-19 15:05:51 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:05:51 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 23600 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:05:51 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:05:53 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 0fa9fefc-d10b-49a8-9e5c-ecaee22879bf
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:05:53 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:05:54 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 3.356 seconds (process running for 5.533)
+2026-03-19 15:08:17 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:08:17 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 17256 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:08:17 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:08:21 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 569ac39b-eff1-45ce-867f-6c1906f1d877
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:08:21 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:08:21 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 5.246 seconds (process running for 6.988)
+2026-03-19 15:10:30 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:10:31 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 1860 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:10:31 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:10:33 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: e903cccc-8ec6-454d-9ceb-a89ae8d4c4e1
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:10:33 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:10:33 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 3.379 seconds (process running for 4.825)
+2026-03-19 15:12:11 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:12:11 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 15116 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:12:11 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:12:14 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 753fa7aa-da63-49e1-8757-191170220933
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:12:14 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:12:14 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 3.71 seconds (process running for 5.358)
+2026-03-19 15:19:17 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:19:17 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 25028 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:19:17 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:19:19 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: fe2995cf-74cf-465b-9824-2dfcf7e5e746
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:19:19 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:19:19 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 2.5 seconds (process running for 3.557)
+2026-03-19 15:21:33 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:21:33 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 2120 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:21:33 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:21:36 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 66e2b692-c89f-40ca-8dfd-f69dad4d12a2
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:21:36 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:21:36 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 3.634 seconds (process running for 5.218)
+2026-03-19 15:28:19 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:28:19 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 2088 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:28:19 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:28:20 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 367bf749-8000-4087-9abd-8bd05b0ccbf8
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:28:20 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:28:20 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 1.833 seconds (process running for 2.741)
+2026-03-19 15:33:40 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:33:40 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 24344 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:33:40 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:33:41 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 67e15131-b36d-4b91-b34b-ba947aee4170
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:33:41 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:33:42 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 1.926 seconds (process running for 2.892)
+2026-03-19 15:37:47 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-03-19 15:37:47 INFO  c.e.W.WBMDomainServiceAppTests - Starting WBMDomainServiceAppTests using Java 21.0.9 with PID 18172 (started by AshishKumar7 in C:\Users\AshishKumar7\Desktop\DTOService\WBMDomainService)
+2026-03-19 15:37:47 INFO  c.e.W.WBMDomainServiceAppTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-19 15:37:49 WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 80fe1f59-ac94-4b8f-96db-396fb7ddbace
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-03-19 15:37:49 INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-03-19 15:37:49 INFO  c.e.W.WBMDomainServiceAppTests - Started WBMDomainServiceAppTests in 1.842 seconds (process running for 2.759)
